@@ -6,3 +6,5 @@ Integrantes:
 * Wagner Porto Ferreira
 * Willen Borges Coelho
 * Vitor Fontana Zanotelli
+
+Dataset utilizado disponível em: https://doi.org/10.5281/zenodo.7623108
